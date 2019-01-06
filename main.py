@@ -120,5 +120,5 @@ class Todo():
         self.tasks.append(data)
 
 
-# if __name__ == "__main__":
-#     Todo()
+if __name__ == "__main__":
+    Todo()
